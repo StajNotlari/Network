@@ -1,19 +1,19 @@
-# Staj Notlarý
+# Staj Notlarï¿½
 
-Merhaba, staj döneminden yapýlan projelerin tamamýný kapsýyor.
+Merhaba, staj dï¿½neminden yapï¿½lan projelerin tamamï¿½nï¿½ kapsï¿½yor.
 
-# Kullandýðýmýz Uygulama
+# Kullandï¿½ï¿½ï¿½mï¿½z Uygulama
 
   - Visual Studio 2019
   - NotePad ++
   - GitHub
 
-# Kullandýðýmýz Kod dili 
+# Kullandï¿½ï¿½ï¿½mï¿½z Kod dili 
 
 - C#
 # Konular
 - Hello world
-- Degiþkenler
+- Degiï¿½kenler
 - Fonksiyonlar
 - Matematik
 - Switch
